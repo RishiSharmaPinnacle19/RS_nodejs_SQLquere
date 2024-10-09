@@ -1,6 +1,6 @@
 # RS_nodejs_SQLquere
 
-########## NODE.js With MySQL
+########## NODE.js With MySQL ##########
 
 The code connects a Node.js application to a MySQL database using the `mysql` module. It creates a database, a `school` table, and alters the table by adding an `id` column and modifying the `class` column. It then inserts multiple student records into the table.
 
